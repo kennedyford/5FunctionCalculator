@@ -45,7 +45,7 @@ Overall, I'm not sure if I really got everything that was required of me. I thin
 Nevertheless, there might be one or two issues that I haven't found yet, but overall I am satisfied with my production of the deliverable.
 
 ### Phase 5: Documentation + Final Thoughts (comments, etc.)
-This has been a continuous process, but documenting everything that I have done, through both this as well as comments, etc., I have put a lot of effort into.
+This has been a continuous process, but documenting everything that I have done, through both this as well as comments, is something that I have put a lot of effort into.
 One thing I believe that makes me a goood fit for this company is what I think they are looking for. They aren't just looking for a good programmer. There are plenty of those, but
 more than that, they need someone who can effectively communicate technical ideas, decisions, and value. Not only the what, but the why and why that way is valuable. 
 
