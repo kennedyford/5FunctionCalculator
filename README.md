@@ -6,8 +6,7 @@ under the framework of OpenGLFW. The five functions are addition, subtractions (
 
 The program also traces both the inputs by the user as well as the internal logic of the program and the binary decisions that the program makes for analysis and debugging. Also, to assist in the understanding of what is happening under the hood so to speak.
 
-![](Screenshots/5FC.png)<br>
-![](Screenshots/TraceLogic.png)<br>
+<br>
 
 ## How to Build
 This project was developed on a machine running `Linux Ubuntu 22.04`, so it is intended for Linux.
@@ -29,6 +28,7 @@ To run this project, either double click the `5FunctionCalc` file, or open a ter
 
 <br>![](Screenshots/howToBuild.png)<br><br>
 
+
 ## Methodology / Implementation
 This is a project given by VS Merlot for use in analyzing techical skills. I was given this project on Feb. 12th, 2024 and given a week to complete it. My approach to the project is shown some within the names of the directories, but I will further expound on them here. Please see the files within each directory for more context as to the work that I did.
 
@@ -38,19 +38,28 @@ I began researching details about C++ and the frameworks that I selected, and I 
 I quickly saw many questions that I had regarding this document and forwarded them to my contact for clarification.
 Once I felt moderately comfortable with C++, which didn't take overly long, I got to work.
 
+![](Screenshots/P1-SS.png)<br>
+
 ### Phase 2: Logic Implementation
 I decided to not focus on the GUI at first and to get the core logic of the 5 functions working as intended. Beyond this, I also wanted to get the general logic of each of the buttons functional via command line.
 I did most of this in one evening. Since I was waiting on some of my answers regarding the document, I decided to have a little bit of fun by creating a text-based calculator to display the ListBox value in.
 By the time I finished that, I stopped working on it for the day. I also received a response to my questions by then, so I read over the answers and began working on figuing out the GUI framework the next day.
 
+![](Screenshots/P2-SS.png)<br>
+
 ### Phase 3: GUI Visualization
 This part was probably one of the most difficult sections. It took me a good while to get used to building the GUI. Building the GUI wasn't really the hardest part. The main issue was getting the logic to cooperate within the GUI.
 This part took me a few days to get right, but finally I was able to get the calculator visually and logically to a place stability and accuracy wise where I felt good about it.
+
+
+![](Screenshots/5FC.png)<br>
 
 ### Phase 4: Logic Trace Finalization
 This part was also somewhat difficult, especially in deciding what the best way to display everything was using the tools that the GUI gave me.
 Overall, I'm not sure if I really got everything that was required of me. I think I got most of the relevant information, but I may be missing something that they are looking for.
 Nevertheless, there might be one or two issues that I haven't found yet, but overall I am satisfied with my production of the deliverable.
+
+![](Screenshots/TraceLogic.png)<br>
 
 ### Phase 5: Documentation + Final Thoughts (comments, etc.)
 This has been a continuous process, but documenting everything that I have done, through both this as well as comments, is something that I have put a lot of effort into.
