@@ -6,6 +6,9 @@ under the framework of OpenGLFW. The five functions are addition, subtractions (
 
 The program also traces both the inputs by the user as well as the internal logic of the program and the binary decisions that the program makes for analysis and debugging. Also, to assist in the understanding of what is happening under the hood so to speak.
 
+![](Screenshots/5FC.png)
+![](Screenshots/TraceLogic.png)
+
 <br><br>
 
 ## How to Build
