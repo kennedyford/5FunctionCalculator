@@ -1,0 +1,23 @@
+Questions for Tom Pt. 2:
+
+Tom,
+
+I have another batch of questions for you. I am pretty much done with everything for the project except for the trace logic. That is pretty much what all of my questions are regarding. I am somewhat confused with the document's guidance, especially in the wording. I am having trouble visualizing it. 
+Let me know your answers to these questions.
+
+Q1: The document states that for the trace logic that it should show the test "name" and provide a 
+    count for the decision in a format that the user will likely understand. Does this mean the 
+    overall count of decisions, the current value of the decision count at that point and time within 
+    the code, or is it the count for how many times this particular decision has been evaluated?
+    
+Q2: The document says that each decision point needs a printout of the decision with results. Is 
+    this added to the trace logic tab as an entry or is it a single entry that is updated for what 
+    the last result of the decision was?
+
+You said that I had a week to complete this on Monday, and I plan on making the most of that timeframe.
+I plan on emailing you my .zip file with my solution Monday morning. 
+Please be on the lookout for that email. 
+
+
+Thanks again,
+Kennedy

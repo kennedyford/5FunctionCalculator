@@ -1,0 +1,16 @@
+Questions for Tom:
+
+Q1: What GUI library should I use? Does it matter?
+A1: You can pick any GUI that works with C++
+
+
+Q2: Could you show me or describe to me what you expect the trace logic page to look like? I understand the concept of what data you want, but not the specification of how you want it to look.
+A2: Multiple operations are called chaining, and the operations are performed as they are entered. 
+
+
+Q3: It states that the calculator should support multiple operations at once and it gives the example of (2+2+6*12/2). Many calculators often dynamically do the operations. Should this calculator do that (evaluate the statement linearly in the background) or should it wait and calculate it in terms of order of operations? If so, how would the percentage fit into the order of operations?
+A3: Every decision is a binary test, count every decision.
+
+
+Q4: Could you elaborate on these "decisions" that I have to trace? And can you define "decision point" for me? (I may have more questions about this later)
+A4: In a development effort you want to convey enough information in your trace that is meaningful to the reader but not too much to be wasteful. 

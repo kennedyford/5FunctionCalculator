@@ -1,0 +1,61 @@
+Input: 2
+a: 2
+b: 6.94936e-310
+op: 
+ListBox: 2
+
+-----------
+
+Input: +
+a: 2
+b: 6.94936e-310
+op: +
+ListBox: 2
+
+-----------
+
+Input: 2
+a: 4
+b: 2
+op: +
+ListBox: 2
+
+-----------
+
+Input: =
+a: 4
+b: 2
+op: +
+ListBox: 4
+
+-----------
+
+Input: %
+a: 4
+b: 2
+op: %
+ListBox: 4
+
+-----------
+
+Input: 200
+a: 12
+b: 200
+op: %
+ListBox: 200
+
+-----------
+
+Input: =
+a: 12
+b: 200
+op: %
+ListBox: 12
+
+-----------
+
+Input: 10
+a: 13.2
+b: 10
+op: %
+ListBox: 10
