@@ -6,10 +6,8 @@ under the framework of OpenGLFW. The five functions are addition, subtractions (
 
 The program also traces both the inputs by the user as well as the internal logic of the program and the binary decisions that the program makes for analysis and debugging. Also, to assist in the understanding of what is happening under the hood so to speak.
 
-![](Screenshots/5FC.png)
-![](Screenshots/TraceLogic.png)
-
-<br><br>
+![](Screenshots/5FC.png)<br>
+![](Screenshots/TraceLogic.png)<br>
 
 ## How to Build
 This project was developed on a machine running `Linux Ubuntu 22.04`, so it is intended for Linux.
@@ -22,7 +20,7 @@ If you want to edit this file, open the `/Phase3+4/src/main.cpp/` file. This is 
 ### Run the Executable
 To run this project, either double click the `5FunctionCalc` file, or open a terminal, navigate to the directry where the executable is located, and execute the following command `./5FunctionCalc`
 
-<br><br>
+![](Screenshots/howToBuild.png)<br>
 
 ## Methodology / Implementation
 This is a project given by VS Merlot for use in analyzing techical skills. I was given this project on Feb. 12th, 2024 and given a week to complete it. My approach to the project is shown some within the names of the directories, but I will further expound on them here. Please see the files within each directory for more context as to the work that I did.
