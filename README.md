@@ -1,4 +1,5 @@
 # 5FunctionCalculator
+by Kennedy Ford
 
 ## Description
 This is a program that creates a 5 Function Calculator written in C++ and using the ImGui GUI Library
