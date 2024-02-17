@@ -46,19 +46,20 @@ Nevertheless, there might be one or two issues that I haven't found yet, but ove
 
 ### Phase 5: Documentation + Final Thoughts (comments, etc.)
 This has been a continuous process, but documenting everything that I have done, through both this as well as comments, is something that I have put a lot of effort into.
-One thing I believe that makes me a goood fit for this company is what I think they are looking for. They aren't just looking for a good programmer. There are plenty of those, but
-more than that, they need someone who can effectively communicate technical ideas, decisions, and value. Not only the what, but the why and why that way is valuable. 
+One thing that I believe that makes me a good fit for this company is that I think that I know what they are looking for. They aren't just looking for a good programmer. There are plenty of those, but
+more than that, they need someone who can effectively communicate technical ideas, decisions, and the value of said decisions. Not only the what, but the why, and why that 'why' is valuable. 
 
 <br><br>
 
 ## Conclusion + Why you should hire me (humbly)
 If my analysis from the previous paragraph correct, then I do believe that I shine far above most candidates. I am not only an adept programmer, but I am an excellent communication, especially in regards to technological ideas.
-This company needs software engineers that can give presentations on their work to people who may not have a technological background, and explain the value of Temporal Engineering. It needs software engineers who can explain
-ideas that they themselves are helping to define and create, especially to the military for govt. contracts that they company may be aiming for. This is literally what I have been doing for the last two years. 
-I have been explaining the value of new technology that I and my team have been building, things that have never been done before, to very high ranking members of the government and military. Even beyond the military/govt, 
-explaining not only the what, but the why, the value, to business executives and companies. I believe I am the person who can do that. Who can go to bat for this company. Who can help keep the ship afloat while we build. 
-This is what I believe I bring to the table that many other candidates I think do not.
+This company needs software engineers that can give presentations on their work to people who may not have a technological background and explain the value of Temporal Engineering. It needs software engineers who can explain
+ideas that they themselves are helping to define and create, especially to the military for any government contracts that the company may be aiming for. This is literally what I have been doing for the last two years. 
+I have been explaining the value of new technology that I and my team have been building, things that have never been done before, to very high ranking members of the government and military. Even beyond the military/government, 
+explaining not only the what, but the why, the value, to business executives and companies. I believe that I am the person who can do that. Who can go to bat for this company. Who can help keep the ship afloat while we build this legacy. 
+This is what I believe that I bring to the table that many other candidates do not.
 
 
 Thank you for considering me for this position. I am beyond grateful. Truly.
+
 Kennedy
