@@ -81,3 +81,7 @@ This is what I believe that I bring to the table that many other candidates do n
 Thank you for considering me for this position. I am beyond grateful. Truly.
 
 Kennedy
+
+
+<br><br>
+![](Screenshots/MerlotMeme.png)
