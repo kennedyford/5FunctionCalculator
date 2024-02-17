@@ -59,7 +59,7 @@ Overall, I'm not sure if I really got everything that was required of me. I thin
 Nevertheless, there might be one or two issues that I haven't found yet, but overall I am satisfied with my production of the deliverable. I also was able to create a `CalcTrace.txt`
 to output the state of the system at each input iteration.
 
-![](Screenshots/TraceLogicEx.png)<br>
+![](Screenshots/TraceLogicEx.png)<br><br>
 ![](Screenshots/CalcTrace.png)<br>
 
 ### Phase 5: Documentation + Final Thoughts (comments, etc.)
