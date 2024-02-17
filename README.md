@@ -51,15 +51,16 @@ By the time I finished that, I stopped working on it for the day. I also receive
 This part was probably one of the most difficult sections. It took me a good while to get used to building the GUI. Building the GUI wasn't really the hardest part. The main issue was getting the logic to cooperate within the GUI.
 This part took me a few days to get right, but finally I was able to get the calculator visually and logically to a place stability and accuracy wise where I felt good about it.
 
-
 ![](Screenshots/5FC.png)<br>
 
 ### Phase 4: Logic Trace Finalization
 This part was also somewhat difficult, especially in deciding what the best way to display everything was using the tools that the GUI gave me.
 Overall, I'm not sure if I really got everything that was required of me. I think I got most of the relevant information, but I may be missing something that they are looking for.
-Nevertheless, there might be one or two issues that I haven't found yet, but overall I am satisfied with my production of the deliverable.
+Nevertheless, there might be one or two issues that I haven't found yet, but overall I am satisfied with my production of the deliverable. I also was able to create a `CalcTrace.txt`
+to output the state of the system at each input iteration.
 
-![](Screenshots/TraceLogic.png)<br>
+![](Screenshots/TraceLogicEx.png)<br>
+~[](Screenshots/CalcTrace.png)<br>
 
 ### Phase 5: Documentation + Final Thoughts (comments, etc.)
 This has been a continuous process, but documenting everything that I have done, through both this as well as comments, is something that I have put a lot of effort into.
