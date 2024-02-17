@@ -49,6 +49,7 @@ This has been a continuous process, but documenting everything that I have done,
 One thing I believe that makes me a goood fit for this company is what I think they are looking for. They aren't just looking for a good programmer. There are plenty of those, but
 more than that, they need someone who can effectively communicate technical ideas, decisions, and value. Not only the what, but the why and why that way is valuable. 
 
+<br><br>
 
 ## Conclusion + Why you should hire me (humbly)
 If my analysis from the previous paragraph correct, then I do believe that I shine far above most candidates. I am not only an adept programmer, but I am an excellent communication, especially in regards to technological ideas.
