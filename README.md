@@ -13,11 +13,11 @@ This project was developed on a machine running `Linux Ubuntu 22.04`, so it is i
 ImGui and OpenGLFW have the capability to cross compile, but this has yet to test this at the time of 
 writing this document. For the time being, this section will describe the Linux compilation.
 
+### Changing the Code and/or Build the Executable
+If you want to edit this file, open the file `/Phase3+4/src/main.cpp/` file. This is where all of the code is written. All of the other files are to run the ImGui library and to build the executable. Then, when you want to build the project with your newly created changes, run the command `make` to build the project.
+
 ### Run the Executable
 To run this project, either double click the `5FunctionCalc` file, or open a terminal, navigate to the directry where the executable is located, and execute the following command `./5FunctionCalc`
-
-### Changing the Code and/or Build the Executable
-If you want to edit this file, open the file `/Phase3+4/src/main.cpp/` file. This is where all of the code is written. All of the other files are to run the ImGui library and to build the executable. Then, when you want to build the project with your newly created changes, run the command `make` to build the project, and then refer to the previous paragraph's instructions to run the executable.
 
 <br><br>
 
