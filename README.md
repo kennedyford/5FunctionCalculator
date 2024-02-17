@@ -84,4 +84,4 @@ Kennedy
 
 
 <br><br>
-![](Screenshots/MerlotMeme.png)
+![](Screenshots/MerlotMeme.jpg)
