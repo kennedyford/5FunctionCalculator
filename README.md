@@ -60,7 +60,7 @@ Nevertheless, there might be one or two issues that I haven't found yet, but ove
 to output the state of the system at each input iteration.
 
 ![](Screenshots/TraceLogicEx.png)<br>
-~[](Screenshots/CalcTrace.png)<br>
+![](Screenshots/CalcTrace.png)<br>
 
 ### Phase 5: Documentation + Final Thoughts (comments, etc.)
 This has been a continuous process, but documenting everything that I have done, through both this as well as comments, is something that I have put a lot of effort into.
