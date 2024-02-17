@@ -70,7 +70,7 @@ more than that, they need someone who can effectively communicate technical idea
 <br><br>
 
 ## Conclusion + Why you should hire me (humbly)
-If my analysis from the previous paragraph correct, then I do believe that I shine far above most candidates. I am not only an adept programmer, but I am an excellent communication, especially in regards to technological ideas.
+If my analysis from the previous paragraph correct, then I do believe that I shine far above most candidates. I am not only an adept programmer, but I am an excellent communicator, especially in regards to technological ideas.
 This company needs software engineers that can give presentations on their work to people who may not have a technological background and explain the value of Temporal Engineering. It needs software engineers who can explain
 ideas that they themselves are helping to define and create, especially to the military for any government contracts that the company may be aiming for. This is literally what I have been doing for the last two years. 
 I have been explaining the value of new technology that I and my team have been building, things that have never been done before, to very high ranking members of the government and military. Even beyond the military/government, 
