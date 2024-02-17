@@ -1,0 +1,161 @@
+Input: 5
+op: 
+ListBox: 5
+a: 5
+b: 0
+
+-----------
+
+Input: +
+op: +
+ListBox: 5
+a: 5
+b: 0
+
+-----------
+
+Input: 6
+op: +
+ListBox: 6
+a: 5
+b: 6
+
+-----------
+
+Input: -
+op: -
+ListBox: 6
+a: 11
+b: 0
+
+-----------
+
+Input: 1
+op: -
+ListBox: 1
+a: 11
+b: 1
+
+-----------
+
+Input: /
+op: /
+ListBox: 1
+a: 10
+b: 0
+
+-----------
+
+Input: 5
+op: /
+ListBox: 5
+a: 10
+b: 5
+
+-----------
+
+Input: *
+op: *
+ListBox: 5
+a: 2
+b: 0
+
+-----------
+
+Input: 6
+op: *
+ListBox: 6
+a: 2
+b: 6
+
+-----------
+
+Input: %
+op: %
+ListBox: 6
+a: 12
+b: 0
+
+-----------
+
+Input: 1
+op: %
+ListBox: 1
+a: 12
+b: 1
+
+-----------
+
+Input: 0
+op: %
+ListBox: 10
+a: 12
+b: 10
+
+-----------
+
+Input: 0
+op: %
+ListBox: 100
+a: 12
+b: 100
+
+-----------
+
+Input: =
+op: 
+ListBox: 24
+a: 24
+b: 0
+
+-----------
+
+Input: -
+op: -
+ListBox: 24
+a: 24
+b: 0
+
+-----------
+
+Input: 2
+op: -
+ListBox: 2
+a: 24
+b: 2
+
+-----------
+
+Input: =
+op: 
+ListBox: 22
+a: 22
+b: 0
+
+-----------
+
+Input: +
+op: +
+ListBox: 22
+a: 22
+b: 0
+
+-----------
+
+Input: 2
+op: +
+ListBox: -2
+a: 22
+b: -2
+
+-----------
+
+Input: =
+op: 
+ListBox: 20
+a: 20
+b: 0
+
+-----------
+
+EOF
